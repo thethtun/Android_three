@@ -1,0 +1,7 @@
+#Sun Nov 06 11:26:02 MMT 2016
+base.0=/home/beta4040/AndroidStudioProjects/Android_3_quotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcbed3f168dd5879179c2a6ecfbf1dfe69a2b827
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/beta4040/AndroidStudioProjects/Android_3_quotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c698320cacea75b5ef96302531cfddf3830fc0da/classes.dex
+base.1=/home/beta4040/AndroidStudioProjects/Android_3_quotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c698320cacea75b5ef96302531cfddf3830fc0da
+file.0=/home/beta4040/AndroidStudioProjects/Android_3_quotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bcbed3f168dd5879179c2a6ecfbf1dfe69a2b827/classes.dex

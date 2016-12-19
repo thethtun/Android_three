@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Fragment Content-->
+    <string name="fragment_one_unicode">
+        [unicode] \n
+        စားချိန်မှာစား၊ \n
+        ကစားချိန်မှာကစား။ \n
+        မဆိုင်တဲ့ အချိန် မဆိုင်တာမလုပ်နဲ့။
+    </string>
+
+    <string name="fragment_one_zawgyi">
+        [Zawgyi] \n
+        စားခ်ိန္မွာစား၊ \n
+        ကစားခ်ိန္မွာကစား။ \n
+        မဆိုင္တဲ့ အခ်ိန္ မဆိုင္တာမလုပ္နဲ႔။
+    </string>
+
+    <string name="fragment_two_unicode">
+        [unicode] \n
+        မေန့က ၅ ရက်ေန. \n
+        ဒီေန့ ၆ ရက်ေန့ \n
+        မနက်ြဖန် ၇ ရက်ေန့
+    </string>
+
+    <string name="fragment_two_zawgyi">
+        [Zawgyi] \n
+        ေမန႔က ၅ ရက္ေန. \n
+        ဒီေန႔ ၆ ရက္ေန႔ \n
+        မနက္ျဖန္ ၇ ရက္ေန႔
+    </string>
+
+    <string name="fragment_three_unicode">
+        [unicode] \n
+        ဗိုက်ဆာတယ်။\n
+        ေရငတ်တယ်။\n
+        ရယ်ချင်တယ်။\n
+    </string>
+    <string name="fragment_three_zawgyi">
+        [zawgyi] \n
+        ဗိုက္ဆာတယ္။ \n
+        ေရငတ္တယ္။ \n
+        ရယ္ခ်င္တယ္။\n
+    </string>
+
+
+</resources>
